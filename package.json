@@ -1,5 +1,5 @@
 {
-  "name": "create-graphql-service",
+  "name": "@orikami/create-graphql-service",
   "version": "0.0.1",
   "description": "create a GraphQL microservice with auth0 authentication",
   "main": "index.js",
@@ -15,5 +15,13 @@
   },
   "dependencies": {
     "eventemitter3": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orikami-nl/create-graphql-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orikami-nl/create-graphql-service/issues"
+  },
+  "homepage": "https://github.com/orikami-nl/create-graphql-service#readme"
 }
